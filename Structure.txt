@@ -1,0 +1,9 @@
+fe-|-react.js
+|  |-react native 
+|
+be-|-django 
+|  |-django rest framework 
+|
+| 
+db-|- sql-postgresql
+   |- nosql-mongodb
